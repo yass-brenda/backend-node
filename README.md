@@ -1,6 +1,6 @@
 # backend-node
 
-#.gitignore
+# .gitignore
 
 Es importante crear un archivo dentro de tu repositorio llamado __.gitignore__
 en este colocaras las direcciones de las carpetas que no debe tomar en cuenta git,
